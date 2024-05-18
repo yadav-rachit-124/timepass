@@ -1,0 +1,2 @@
+1. Update image url in databse when image is updated in clerk (use user from clerk)
+2. deploy useing railway
